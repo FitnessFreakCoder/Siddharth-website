@@ -21,9 +21,11 @@ export const HERO_CONTENT = {
 };
 
 export const ABOUT_CONTENT = {
-  bio: `I don't just train models; I build complete production systems. As a Deep Learning and Generative AI specialist, I bridge the gap between academic theory and deployable software. 
+  bio: `I am a final-year BCA student specializing in Artificial Intelligence and Generative AI, with a strong focus on building real-world, production-grade AI systems rather than just academic models.
 
-  My work combines Transformers, Vector Databases, and LLMs to create autonomous agents and intelligent search systems. Currently completing my BCA, I am focused entirely on shipping high-performance AI products. I am mainly focused on Backend development.`,
+My work sits at the intersection of Deep Learning, NLP, and Software Engineering. I design and build systems that combine Transformers, Large Language Models, Vector Databases, and Retrieval-Augmented Generation (RAG) to solve practical problems like intelligent search, question answering, and user personalization.
+
+Unlike many developers who only use AI APIs, I deeply understand how modern models actually work — from self-attention and masked decoding to autoregressive generation, embeddings, and fine-tuning. This allows me to build AI systems that are not just functional, but scalable, efficient, and reliable.`,
   stats: [
     { label: "Systems Built", value: "5+" },
     { label: "Years Coding", value: "2+" },

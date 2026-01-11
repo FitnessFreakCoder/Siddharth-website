@@ -141,7 +141,7 @@ const App: React.FC = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                Engineer First, <br/> Researcher Second.
+                Engineering Intelligence at Scale.<br/> 
               </h2>
               <div className="text-slate-400 text-lg leading-relaxed whitespace-pre-line mb-8">
                 {ABOUT_CONTENT.bio}
